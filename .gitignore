@@ -195,7 +195,7 @@ poetry.toml
 log/
 temp/
 tools/
-data/cifar-10-python
+data/cifar-10-batches-py
 data/cifar-100-python
 data/cifar-10-python.tar.gz
 data/cifar-100-python.tar.gz
